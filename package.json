@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "this is the first cucumber script",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinalbariar/DevOpsGradleNodeJS.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mrinal Bariar <mrinal.bariar@gmail.com>",
+  "license": "ISC",
+    "devDependencies": {
+    "chromedriver": "^2.25.1",
+    "cucumber": "2.0.0-rc.9",
+    "selenium-webdriver": "^3.0.1"
+  }
+  "bugs": {
+    "url": "https://github.com/mrinalbariar/DevOpsGradleNodeJS/issues"
+  },
+  "homepage": "https://github.com/mrinalbariar/DevOpsGradleNodeJS#readme"
+}

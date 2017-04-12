@@ -19,7 +19,7 @@
 
 	<servlet-mapping>
 		<servlet-name>hello-dispatcher</servlet-name>
-		<url-pattern>/</url-pattern>
+		<url-pattern>/hello-dispatcher</url-pattern>
 	</servlet-mapping>
 
 	<!-- For root context -->
