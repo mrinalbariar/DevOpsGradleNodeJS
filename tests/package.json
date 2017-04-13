@@ -8,9 +8,11 @@
   },
   "author": "",
   "license": "ISC",
-    "devDependencies": {
+  "devDependencies": {
+    "geckodriver": "1.4.0",
     "chromedriver": "^2.25.1",
     "cucumber": "2.0.0-rc.9",
-    "selenium-webdriver": "^3.0.1"
+    "selenium-webdriver": "^3.0.1",
+    "phantomjs": "2.1.7"
   }
 }
